@@ -35,5 +35,5 @@ Caracteristicas obrigatórias que devem ser exibidas ao realizar a pesquisa:
 ### Submissão e Prazo de entrega
 - O candidato deverá realizar um fork deste repositório e submeter o código no mesmo.
 - Em caso do deploy realizado, a url deverá ser adicionada no README;
-- O prazo de entrega para este desafio é de 3 dias, contando a partir do dia em que o canditado recebeu o email com o link do repositório.
+- O prazo de entrega para este desafio é de 2 dias, contando a partir do dia em que o canditado recebeu o email com o link do repositório.
 - Ao finalizar o desafio, o candidato deverá enviar um email para wellson@hostaraguaia.com.br contendo o link do seu PR.
